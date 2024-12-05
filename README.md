@@ -1,5 +1,3 @@
-<h1 align="center">Eric Kim</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Developer-blue?style=flat-square&logo=c-sharp" alt="C#">
   <img src="https://img.shields.io/badge/.NET-Core_Framework-blueviolet?style=flat-square&logo=dotnet" alt=".NET">
