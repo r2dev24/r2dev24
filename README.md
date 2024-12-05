@@ -41,5 +41,8 @@ I am also passionate about database design and optimization, striving for effici
 ![Oracle Database](https://img.shields.io/badge/Oracle_Database-Database-red?style=flat-square&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Database-darkred?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=r2dev24&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r2dev24&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r2dev24&show_icons=true&theme=radical&card_width=1000)
+
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=r2dev24&theme=radical&card_width=1000)
+
+
