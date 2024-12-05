@@ -21,6 +21,8 @@ I am also passionate about database design and optimization, striving for effici
 🔧 **Tech Stack**: C#, .NET, SQL Server  
 🌐 **Demo**: [Live Link](https://example.com)
 
+[![r2dev24](https://github-readme-activity-graph.vercel.app/graph?username=r2dev24&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r2dev24&show_icons=true&theme=radical&card_width=1000)
 
 ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=r2dev24&theme=radical&card_width=1000)
