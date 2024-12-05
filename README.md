@@ -27,7 +27,7 @@ I am also passionate about database design and optimization, striving for effici
 
 ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=r2dev24&theme=radical&card_width=1000)
 
-### 📈 What I Learned From School & Self
+### 📈 What I Learned in School and Through Self-Study
 ![C](https://img.shields.io/badge/C-Programming_Language-blue?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Programming_Language-blue?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Programming_Language-red?style=flat-square&logo=java&logoColor=white)
