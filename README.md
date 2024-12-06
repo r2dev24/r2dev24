@@ -16,10 +16,8 @@ I am also passionate about database design and optimization, striving for effici
 
 ### 🚀 Key Project & Portfolio
 
-#### [Project Name 1](https://github.com/your-username/project-repo)
-📄 **Description**: A short explanation of the project and its goals.  
-🔧 **Tech Stack**: C#, .NET, SQL Server  
-🌐 **Demo**: [Live Link](https://example.com)
+#### [ERP For Restaurants](https://github.com/r2dev24/ASP.NET-Core-MVC-Projects/tree/main/ERP)
+
 
 [![r2dev24](https://github-readme-activity-graph.vercel.app/graph?username=r2dev24&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
